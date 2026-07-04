@@ -2,21 +2,24 @@
 
 [🇬🇧 English Version](README.en.md)
 
-> 🚀 面向工程师的学习与成长分享仓库。
+> 🚀 纯技术笔记仓库 — 编程语言 · 框架 · 基础设施 · 架构 · 工程实践
 
 ---
 
-## 关于本项目
+## 目录结构
 
-这是一个**面向工程师群体的知识分享项目**，专注于学习和成长。
+| 目录 | 说明 |
+|------|------|
+| `10-编程语言/` | 编程语言特性、踩坑、最佳实践 |
+| `20-框架/` | 框架 & 库源码分析、使用技巧 |
+| `30-基础设施/` | 基础设施 & 中间件（DB、MQ、容器化等） |
+| `40-架构/` | 系统设计、架构模式、设计模式 |
+| `50-工程实践/` | 工程实践规范（代码规范、Git 工作流、CI/CD 等） |
+| `90-meta/` | 模板 & 附件 |
 
-### 内容范围
-
-持续更新，**不限方向**：工程实践、架构设计、工具链、代码规范、职场成长……只要对工程师有用的，都可能出现在这里。
-
-### 当前内容
+## 当前内容
 
 | 文档 | 说明 |
 |------|------|
-| [代码规范落地方案](docs/standards/code-standard-plan.md) | Java (Maven) 项目 — Spotless / Checkstyle / PMD / CI 全流程 |
-| [Git 工作流规范](docs/standards/git-workflow.md) | 分支策略与 Conventional Commits 提交规范 |
+| [代码规范落地方案](50-工程实践/code-standard-plan.md) | Java (Maven) 项目 — Spotless / Checkstyle / PMD / CI 全流程 |
+| [Git 工作流规范](50-工程实践/git-workflow.md) | 分支策略与 Conventional Commits 提交规范 |

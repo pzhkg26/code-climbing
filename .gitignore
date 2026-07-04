@@ -57,3 +57,11 @@ Desktop.ini
 *~
 *.swp
 *.swo
+
+# Obsidian — 全量排除个人配置（每个开发者配置不同）
+.obsidian/
+
+# Claude Code / Claude config
+.claude/
+.claudian/
+CLAUDE.md
